@@ -19,11 +19,14 @@ Output:
 **🧠**:  
 1. Keep track of seen elements.  
 2. At every index, try all possible.
-
-```py
-{!10_recusion_and_backtracking/01_permutations.py!}
-```
-
+=== "🐍"
+    ```py
+    --8<-- "10_recusion_and_backtracking/01_permutations.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "10_recusion_and_backtracking/01_permutations.rs"
+    ```
 [📘](https://takeuforward.org/data-structure/print-all-permutations-of-a-string-array/) [💻](https://leetcode.com/problems/permutations/description/)<br>
 
 ---
@@ -42,11 +45,14 @@ Output: [[".Q..","...Q","Q...","..Q."],["..Q.","Q...","...Q",".Q.."]]
 1. At every position, check whether it is a valid position or not.  
 2. If yes, repeat process until we reach end index.  
 3. If no, backtrack and repeat the process
-
-```py
-{!10_recusion_and_backtracking/02_n_queens.py!}
-```
-
+=== "🐍"
+    ```py
+    --8<-- "10_recusion_and_backtracking/02_n_queens.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "10_recusion_and_backtracking/02_n_queens.rs"
+    ```
 [📘](https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/) [💻](https://leetcode.com/problems/n-queens/description/)<br>
 
 ---
@@ -57,11 +63,14 @@ Output: [[".Q..","...Q","Q...","..Q."],["..Q.","Q...","...Q",".Q.."]]
 
 **Example**:  
 ![suduko](https://lh5.googleusercontent.com/k78fKDRjAJU3CIBgMRYCDEG93ndte0k85JLWYK6IumRreKBRv5zcKDkc1Ms_E6Bi_2M4twPY5GWos_0kQNkZO9AXRtowc5sKe5KZMJpcCqKddtXDr7xuA-HZDIttJ_-5RE30NlDJ)
-
-```py
-{!10_recusion_and_backtracking/03_suduko.py!}
-```
-
+=== "🐍"
+    ```py
+    --8<-- "10_recusion_and_backtracking/03_suduko.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "10_recusion_and_backtracking/03_suduko.rs"
+    ```
 [📘](https://takeuforward.org/data-structure/sudoku-solver/) [💻](https://leetcode.com/problems/sudoku-solver/)<br>
 
 ---
@@ -146,11 +155,14 @@ god is no where no where
 god is no where now here  
 god is now here no where  
 god is now here now here  
-
-```py
-{!10_recusion_and_backtracking/06_word_break.py!}
-```
-
+=== "🐍"
+    ```py
+    --8<-- "10_recusion_and_backtracking/06_word_break.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "10_recusion_and_backtracking/06_word_break.rs"
+    ```
 [💻](https://www.naukri.com/code360/problems/983635?topList=striver-sde-sheet-problems&leftPanelTabValue=PROBLEM)<br>
 
 ---
