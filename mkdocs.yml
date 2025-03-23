@@ -81,3 +81,6 @@ nav:
     - Binary Search Trees:
       - Part1: binary_search_trees/bst.md
       - Part2: binary_search_trees/bst_ii.md
+    - DP:
+      - Part1: dp/dp_i.md
+      - Part2: dp/dp_ii.md
