@@ -17,7 +17,8 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install mkdocs-material
-      - run: pip install markdown-include
-      - run: pip install pillow cairosvg
+      - run: pip install uv
+      - run: uv pip install mkdocs-material
+      - run: uv pip install markdown-include
+      - run: uv pip install pillow cairosvg
       - run: mkdocs gh-deploy --force
