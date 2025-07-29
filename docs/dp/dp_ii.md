@@ -62,7 +62,7 @@ Explanation: The array can be partitioned as [1, 5, 5] and [11].
     --8<-- "26_dp_ii/03_subset_sum.rs"
     ```
     
-[📘](https://takeuforward.org/data-structure/subset-sum-equal-to-target-dp-14/) [💻](https://takeuforward.org/data-structure/coin-change-2-dp-22/)<br>
+[📘](https://takeuforward.org/data-structure/subset-sum-equal-to-target-dp-14/) [💻](https://leetcode.com/problems/partition-equal-subset-sum/)<br>
 
 ## Rod Cutting
 
