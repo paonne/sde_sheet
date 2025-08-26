@@ -46,4 +46,4 @@ class Solution:
                         res.add((nums[i], nums[j], nums[left], nums[right]))
                         left += 1
                         right -= 1
-        return res
+        return list(res)
