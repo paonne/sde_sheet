@@ -37,11 +37,11 @@ Output: 3
 
 === "🐍"
     ```py
-    --8<-- "08_greedy/01_nmeetings_in_one_room.py"
+    --8<-- "08_greedy/02_minimum_platforms.py"
     ```
 === "🐋"
     ```go
-    --8<-- "08_greedy/01_nmeetings_in_one_room.go"
+    --8<-- "08_greedy/02_minimum_platforms.go"
     ```
 
 [📘](https://takeuforward.org/data-structure/minimum-number-of-platforms-required-for-a-railway/) [💻](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)<br>
