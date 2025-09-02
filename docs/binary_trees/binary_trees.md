@@ -1,8 +1,13 @@
 ## Inorder Traversal
 
-```py
-{!17_binary_tree/01_inorder.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "17_binary_tree/01_inorder.py"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "17_binary_tree/01_inorder.go"
+    ```
 
 [💻](https://leetcode.com/problems/binary-tree-inorder-traversal/)<br>
 
@@ -10,9 +15,14 @@
 
 ## Preorder Traversal
 
-```py
-{!17_binary_tree/02_preorder.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "17_binary_tree/02_preorder.py"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "17_binary_tree/02_preorder.go"
+    ```
 
 [💻](https://leetcode.com/problems/binary-tree-preorder-traversal/)<br>
 
@@ -20,9 +30,14 @@
 
 ## Postorder Traversal
 
-```py
-{!17_binary_tree/03_postorder.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "17_binary_tree/03_postorder.py"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "17_binary_tree/03_postorder.go"
+    ```
 
 [💻](https://leetcode.com/problems/binary-tree-postorder-traversal/)<br>
 
@@ -42,9 +57,14 @@ Explanation: From the left side of the tree, only the nodes 1, 2, and 4 are visi
 **🧠**:  
 Use BFS, result is list of first element in each level of binary tree.
 
-```py
-{!17_binary_tree/06_left_view.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "17_binary_tree/06_left_view.py"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "17_binary_tree/06_left_view.go"
+    ```
 
 [📘](https://takeuforward.org/data-structure/right-left-view-of-binary-tree/) [💻](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1)<br>
 
@@ -61,9 +81,14 @@ For the above tree, the output should be 4 2 5 3.
 1. Use BFS, carry level during traversal, on going left decrease the level, on going right increase the level.  
 2. Result is list of last elements in each level.  
 
-```py
-{!17_binary_tree/07_bottom_view.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "17_binary_tree/07_bottom_view.py"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "17_binary_tree/07_bottom_view.go"
+    ```
 
 [📘](https://takeuforward.org/data-structure/bottom-view-of-a-binary-tree/) [💻](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)<br>
 
@@ -74,9 +99,14 @@ For the above tree, the output should be 4 2 5 3.
 **🧠**:  
 Same as bottom view, result is list of first elements in each level. 
 
-```py
-{!17_binary_tree/08_top_view.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "17_binary_tree/08_top_view.py"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "17_binary_tree/08_top_view.go"
+    ```
 
 [📘](https://takeuforward.org/data-structure/top-view-of-a-binary-tree/) [💻](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1)<br>
 
@@ -97,9 +127,10 @@ Output: [[4],[2],[1,5,6],[3],[7]]
 2. During BFS, we will be iterating for each height.  
 3. If multiple elements found in the same level and also at the same height, sort them.  
 
-```py
-{!17_binary_tree/10_vertical_order.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "17_binary_tree/10_vertical_order.py"
+    ```
 
 [📘](https://takeuforward.org/data-structure/vertical-order-traversal-of-binary-tree/) [💻](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)<br>
 
@@ -121,9 +152,10 @@ Explanation: All possible paths: 1->2->4, 1->2->5 and 1->3
 **🧠**:  
 Use DFS
 
-```py
-{!17_binary_tree/11_root_to_node_path.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "17_binary_tree/11_root_to_node_path.py"
+    ```
 
 [📘](https://takeuforward.org/data-structure/print-root-to-node-path-in-a-binary-tree/) [💻](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1)<br>
 
@@ -146,9 +178,10 @@ Explanation: The maximum width exists in the fourth level with length 7 (6,null,
 2. If i is index of a node, its left child index is 2*i, right child index is 2*i + 1.  
 3. Find width at each level of BFS.  
 
-```py
-{!17_binary_tree/12_max_width.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "17_binary_tree/12_max_width.py"
+    ```
 
 [📘](https://takeuforward.org/data-structure/maximum-width-of-a-binary-tree/) [💻](https://leetcode.com/problems/maximum-width-of-binary-tree/)<br>
 

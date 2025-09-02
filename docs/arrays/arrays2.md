@@ -10,6 +10,10 @@
     ```rust
     --8<-- "02_arrays_part2/1_rotate_matrix.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "02_arrays_part2/1_rotate_matrix.go"
+    ```
 [📘](https://takeuforward.org/data-structure/rotate-image-by-90-degree/) [💻](https://leetcode.com/problems/rotate-image/)<br>
 
 ---
@@ -25,6 +29,10 @@
     ```rust
     --8<-- "02_arrays_part2/2_merge_overlapping_subintervals.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "02_arrays_part2/2_merge_overlapping_subintervals.go"
+    ```
 [📘](https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/) [💻](https://leetcode.com/problems/merge-intervals/)<br>
 
 ---
@@ -39,6 +47,10 @@
 === "🦀"
     ```rust
     --8<-- "02_arrays_part2/3_merge_two_sorted_arrays.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "02_arrays_part2/3_merge_two_sorted_arrays.go"
     ```
 [📘](https://takeuforward.org/data-structure/merge-two-sorted-arrays-without-extra-space/) [💻](https://leetcode.com/problems/merge-sorted-array/)<br>
 
@@ -63,6 +75,10 @@ Please check  [here](https://www.youtube.com/watch?v=wjYnzkAhcNk) for formula an
     ```rust
     --8<-- "02_arrays_part2/4_duplicate_of_n+1_integers.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "02_arrays_part2/4_duplicate_of_n+1_integers.go"
+    ```
 [📘](https://takeuforward.org/data-structure/find-the-duplicate-in-an-array-of-n1-integers/) [💻](https://leetcode.com/problems/find-the-duplicate-number/)<br>
 
 ---
@@ -85,6 +101,10 @@ Please check [here](https://www.youtube.com/watch?v=wjYnzkAhcNk) for formula and
 === "🦀"
     ```rust
     --8<-- "02_arrays_part2/5_repeating_and_missing_number.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "02_arrays_part2/5_repeating_and_missing_number.go"
     ```
 [📘](https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/)<br>
 

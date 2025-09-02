@@ -6,10 +6,14 @@
 2. Use slow and fast pointers. Give fast pointer k steps ahead start.<br>
 3. Now move slow and fast pointer simultaneoulsy till fast pointer reaches end to find the kth point<br>
 4. Change the corresponding node next values
-
-```py
-{!07_linked_list_and_arrays/1_rotate_linked_list.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "07_linked_list_and_arrays/1_rotate_linked_list.py"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "07_linked_list_and_arrays/1_rotate_linked_list.go"
+    ```
 
 [📘](https://takeuforward.org/data-structure/rotate-a-linked-list/) [💻](https://leetcode.com/problems/rotate-list/)<br>
 
@@ -34,6 +38,10 @@
 === "🦀"
     ```rust
     --8<-- "07_linked_list_and_arrays/3_3sum.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "07_linked_list_and_arrays/3_3sum.go"
     ```
 [📘](https://takeuforward.org/data-structure/3-sum-find-triplets-that-add-up-to-a-zero/) [💻](https://leetcode.com/problems/3sum/)<br>
 
@@ -63,6 +71,10 @@ At a particular index, amount of water that can be trapped is height - min(prefi
     ```rust
     --8<-- "07_linked_list_and_arrays/4_trapping_rainwater.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "07_linked_list_and_arrays/4_trapping_rainwater.go"
+    ```
 [📘](https://takeuforward.org/data-structure/trapping-rainwater/) [💻](https://leetcode.com/problems/trapping-rain-water/description/)<br>
 
 ---
@@ -82,6 +94,10 @@ At a particular index, amount of water that can be trapped is height - min(prefi
     ```rust
     --8<-- "07_linked_list_and_arrays/5_remove_duplicates_from_sorted_array.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "07_linked_list_and_arrays/5_remove_duplicates_from_sorted_array.go"
+    ```
 [📘](https://takeuforward.org/data-structure/remove-duplicates-in-place-from-sorted-array/) [💻](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)<br>
 
 ---
@@ -99,5 +115,9 @@ At a particular index, amount of water that can be trapped is height - min(prefi
 === "🦀"
     ```rust
     --8<-- "07_linked_list_and_arrays/6_max_consecutive_ones.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "07_linked_list_and_arrays/6_max_consecutive_ones.go"
     ```
 [📘](https://takeuforward.org/data-structure/count-maximum-consecutive-ones-in-the-array/) [💻](https://leetcode.com/problems/max-consecutive-ones/)<br>

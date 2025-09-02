@@ -11,6 +11,10 @@
     ```rust
     --8<-- "14_stacks_and_queues_2/01_nse.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "14_stacks_and_queues_2/01_nse.go"
+    ```
 
 [💻](https://www.interviewbit.com/problems/nearest-smaller-element/)<br>
 
@@ -36,6 +40,10 @@ For every height, possible rectangle width is `nse-pse-1`
 === "🦀"
     ```rust
     --8<-- "14_stacks_and_queues_2/04_largest_rectangle_in_histogram.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "14_stacks_and_queues_2/04_largest_rectangle_in_histogram.go"
     ```
 
 [📘](https://takeuforward.org/data-structure/area-of-largest-rectangle-in-histogram/) [💻](https://leetcode.com/problems/largest-rectangle-in-histogram/)<br>
@@ -71,6 +79,10 @@ For each window of size k=3, we find the maximum element in the window and add i
     ```rust
     --8<-- "14_stacks_and_queues_2/05_sliding_window_maximum.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "14_stacks_and_queues_2/05_sliding_window_maximum.go"
+    ```
 
 [📘](https://takeuforward.org/data-structure/sliding-window-maximum/) [💻](https://leetcode.com/problems/sliding-window-maximum/description/)<br>
 
@@ -94,6 +106,10 @@ Result: [null, null, null, null, -3, null, 0, -2]
 === "🦀"
     ```rust
     --8<-- "14_stacks_and_queues_2/06_min_stack.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "14_stacks_and_queues_2/06_min_stack.go"
     ```
 
 [📘](https://takeuforward.org/data-structure/implement-min-stack-o2n-and-on-space-complexity/) [💻](https://leetcode.com/problems/min-stack/description/)<br>
@@ -127,6 +143,10 @@ Use BFS
 === "🦀"
     ```rust
     --8<-- "14_stacks_and_queues_2/07_rotten_oranges.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "14_stacks_and_queues_2/07_rotten_oranges.go"
     ```
 
 [📘](https://takeuforward.org/data-structure/rotten-oranges-min-time-to-rot-all-oranges-bfs/) [💻](https://leetcode.com/problems/rotting-oranges/description/)<br>
@@ -163,6 +183,10 @@ Find pge
     ```rust
     --8<-- "14_stacks_and_queues_2/08_stock_span.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "14_stacks_and_queues_2/08_stock_span.go"
+    ```
 
 [💻](https://leetcode.com/problems/online-stock-span/description/)<br>
 
@@ -187,6 +211,10 @@ Explanation: Person 1 does not know anyone and is known by persons 0, 2, and 3. 
 === "🦀"
     ```rust
     --8<-- "14_stacks_and_queues_2/10_celebrity.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "14_stacks_and_queues_2/10_celebrity.go"
     ```
 
 ---

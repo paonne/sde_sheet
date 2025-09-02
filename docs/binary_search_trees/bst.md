@@ -34,9 +34,14 @@ At each level, for every node, perform 2 steps
 
 ## Construct BST from given keys
 
-```py
-{!20_binary_search_tree/03_convert_srted_array_to_bst.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "20_binary_search_tree/03_convert_srted_array_to_bst.py"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "20_binary_search_tree/03_convert_srted_array_to_bst.go"
+    ```
 
 [💻](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)<br>
 
@@ -48,9 +53,14 @@ At each level, for every node, perform 2 steps
 1. For BST, inorder will be sorted.  
 2. Find inorder by sorting preorder and construct BT.  
 
-```py
-{!20_binary_search_tree/04_bst_from_preorder.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "20_binary_search_tree/04_bst_from_preorder.py"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "20_binary_search_tree/04_bst_from_preorder.go"
+    ```
 
 [💻](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)<br>
 
@@ -58,9 +68,14 @@ At each level, for every node, perform 2 steps
 
 ## Check is a BT is BST or not
 
-```py
-{!20_binary_search_tree/05_validate_bst.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "20_binary_search_tree/05_validate_bst.py"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "20_binary_search_tree/05_validate_bst.go"
+    ```
 
 [💻](https://leetcode.com/problems/validate-binary-search-tree/)<br>
 
@@ -68,9 +83,14 @@ At each level, for every node, perform 2 steps
 
 ## Find LCA of two nodes in BST
 
-```py
-{!20_binary_search_tree/06_lca_in_bst.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "20_binary_search_tree/06_lca_in_bst.py"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "20_binary_search_tree/06_lca_in_bst.go"
+    ```
 
 [💻](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)<br>
 

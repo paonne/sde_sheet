@@ -13,6 +13,10 @@ Explanation: We have to find all the subset’s sum and print them.in this case 
     ```rust
     --8<-- "09_recursion/01_subset_sums.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "09_recursion/01_subset_sums.go"
+    ```
 [📘](https://takeuforward.org/data-structure/subset-sum-sum-of-all-subsets/) [💻](https://www.geeksforgeeks.org/problems/subset-sums2234/1)<br>
 
 ---
@@ -31,6 +35,10 @@ Explanation: We can have subsets ranging from  length 0 to 3. which are listed a
 === "🦀"
     ```rust
     --8<-- "09_recursion/02_subset_sums_2.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "09_recursion/02_subset_sums_2.go"
     ```
 [📘](https://takeuforward.org/data-structure/subset-ii-print-all-the-unique-subsets/) [💻](https://leetcode.com/problems/subsets-ii/)<br>
 
@@ -60,6 +68,10 @@ Explanation: 2 and 3 are candidates, and 2 + 2 + 3 = 7. Note that 2 can be used 
     ```rust
     --8<-- "09_recursion/03_combination_sum_1.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "09_recursion/03_combination_sum_1.go"
+    ```
 [📘](https://takeuforward.org/data-structure/combination-sum-1/) [💻](https://leetcode.com/problems/combination-sum/)<br>
 
 ---
@@ -84,6 +96,10 @@ Output:
     ```rust
     --8<-- "09_recursion/04_combination_sum_2.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "09_recursion/04_combination_sum_2.go"
+    ```
 [📘](https://takeuforward.org/data-structure/combination-sum-ii-find-all-unique-combinations/) [💻](https://leetcode.com/problems/combination-sum-ii/)<br>
 
 ---
@@ -103,6 +119,10 @@ Output: [ ["a","a","b"], ["aa","b"] ]
 === "🦀"
     ```rust
     --8<-- "09_recursion/05_palindrome_partitioning.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "09_recursion/05_palindrome_partitioning.go"
     ```
 [📘](https://takeuforward.org/data-structure/palindrome-partitioning/) [💻](https://leetcode.com/problems/palindrome-partitioning/)<br>
 

@@ -19,6 +19,10 @@ Explanation: In the given array, we can see (-4)×(-5) gives maximum product val
     ```rust
     --8<-- "25_dp/01_max_prod_subarray.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "25_dp/01_max_prod_subarray.go"
+    ```
     
 [📘](https://takeuforward.org/data-structure/maximum-product-subarray-in-an-array/) [💻](https://leetcode.com/problems/maximum-product-subarray/)<br>
 
@@ -41,6 +45,10 @@ Output: 4
 === "🦀"
     ```rust
     --8<-- "25_dp/02_longest_increasing_subsequence.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "25_dp/02_longest_increasing_subsequence.go"
     ```
     
 [📘](https://takeuforward.org/data-structure/longest-increasing-subsequence-dp-41/) [💻](https://leetcode.com/problems/longest-increasing-subsequence/)<br>
@@ -66,6 +74,10 @@ Explanation: The longest common subsequence is "abc" and its length is 3.
     ```rust
     --8<-- "25_dp/03_longest_common_subsequence.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "25_dp/03_longest_common_subsequence.go"
+    ```
     
 [📘](https://takeuforward.org/data-structure/longest-common-subsequence-dp-25/) [💻](https://leetcode.com/problems/longest-common-subsequence/)<br>
 
@@ -83,6 +95,10 @@ Explanation: The longest common subsequence is "abc" and its length is 3.
 === "🦀"
     ```rust
     --8<-- "25_dp/04_01_knapsack.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "25_dp/04_01_knapsack.go"
     ```
     
 [📘](https://takeuforward.org/data-structure/0-1-knapsack-dp-19/) [💻](https://www.naukri.com/code360/problems/1072980)<br>
@@ -104,6 +120,10 @@ We have to return the minimum number of operations required to convert S1 to S2 
 === "🦀"
     ```rust
     --8<-- "25_dp/05_edit_distance.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "25_dp/05_edit_distance.go"
     ```
     
 [📘](https://takeuforward.org/data-structure/edit-distance-dp-33/) [💻](https://leetcode.com/problems/edit-distance/)<br>
@@ -129,6 +149,10 @@ Explanation: The maximum sum of a increasing sequence is obtained from {1, 2, 3}
     ```rust
     --8<-- "25_dp/06_maximum_sum_increasing_subsequence.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "25_dp/06_maximum_sum_increasing_subsequence.go"
+    ```
     
 [💻](https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1)<br>
 
@@ -151,6 +175,10 @@ The minimum of these two is 20.
 === "🦀"
     ```rust
     --8<-- "25_dp/07_matrix_chain_multiplication.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "25_dp/07_matrix_chain_multiplication.go"
     ```
     
 [📘](https://takeuforward.org/dynamic-programming/matrix-chain-multiplication-dp-48/) [💻](https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1)<br>

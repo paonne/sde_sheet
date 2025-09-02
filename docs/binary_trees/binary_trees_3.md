@@ -11,9 +11,14 @@ Input: root = [-10,9,20,null,null,15,7]
 Output: 42  
 Explanation: The optimal path is 15 -> 20 -> 7 with a path sum of 15 + 20 + 7 = 42.   
 
-```py
-{!19_binary_tree_iii/01_max_path_sum.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "19_binary_tree_iii/01_max_path_sum.py"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "19_binary_tree_iii/01_max_path_sum.go"
+    ```
 
 [📘](https://takeuforward.org/data-structure/maximum-sum-path-in-binary-tree/) [💻](https://leetcode.com/problems/binary-tree-maximum-path-sum/)<br>
 
@@ -21,9 +26,14 @@ Explanation: The optimal path is 15 -> 20 -> 7 with a path sum of 15 + 20 + 7 = 
 
 ## Construct Binary Tree from inorder and preorder
 
-```py
-{!19_binary_tree_iii/02_tree_from_inorder_preorder.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "19_binary_tree_iii/02_tree_from_inorder_preorder.py"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "19_binary_tree_iii/02_tree_from_inorder_preorder.go"
+    ```
 
 [📘](https://takeuforward.org/data-structure/construct-a-binary-tree-from-inorder-and-preorder-traversal/) [💻](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)<br>
 
@@ -31,9 +41,14 @@ Explanation: The optimal path is 15 -> 20 -> 7 with a path sum of 15 + 20 + 7 = 
 
 ## Construct Binary Tree from Inorder and Postorder
 
-```py
-{!19_binary_tree_iii/03_tree_from_inorder_postorder.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "19_binary_tree_iii/03_tree_from_inorder_postorder.py"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "19_binary_tree_iii/03_tree_from_inorder_postorder.go"
+    ```
 
 [💻](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)<br>
 
@@ -41,9 +56,14 @@ Explanation: The optimal path is 15 -> 20 -> 7 with a path sum of 15 + 20 + 7 = 
 
 ## Symmetric Binary Tree
 
-```py
-{!19_binary_tree_iii/04_symmetric_bt.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "19_binary_tree_iii/04_symmetric_bt.py"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "19_binary_tree_iii/04_symmetric_bt.go"
+    ```
 
 [📘](https://takeuforward.org/data-structure/check-for-symmetrical-binary-tree/) [💻](https://leetcode.com/problems/symmetric-tree/)<br>
 

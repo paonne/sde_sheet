@@ -17,6 +17,10 @@ Explanation: Because the path 1 → 3 → 1 → 1 → 1 minimizes the sum.
     ```rust
     --8<-- "26_dp_ii/01_min_path_sum.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "26_dp_ii/01_min_path_sum.go"
+    ```
     
 [📘](https://takeuforward.org/data-structure/minimum-path-sum-in-a-grid-dp-10/) [💻](https://leetcode.com/problems/minimum-path-sum/description/)<br>
 
@@ -41,6 +45,10 @@ Explanation: 11 = 5 + 5 + 1
     ```rust
     --8<-- "26_dp_ii/02_coin_change.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "26_dp_ii/02_coin_change.go"
+    ```
     
 [📘](https://takeuforward.org/data-structure/coin-change-2-dp-22/) [💻](https://leetcode.com/problems/coin-change/description/)<br>
 
@@ -60,6 +68,10 @@ Explanation: The array can be partitioned as [1, 5, 5] and [11].
 === "🦀"
     ```rust
     --8<-- "26_dp_ii/03_subset_sum.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "26_dp_ii/03_subset_sum.go"
     ```
     
 [📘](https://takeuforward.org/data-structure/subset-sum-equal-to-target-dp-14/) [💻](https://leetcode.com/problems/partition-equal-subset-sum/)<br>
@@ -85,6 +97,10 @@ Problem statement is confusing, please refer leetcode link for better clarity of
 === "🦀"
     ```rust
     --8<-- "26_dp_ii/04_rod_cutting.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "26_dp_ii/04_rod_cutting.go"
     ```
     
 [📘](hhttps://takeuforward.org/data-structure/rod-cutting-problem-dp-24/) [💻](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/)<br>
@@ -147,6 +163,10 @@ Note that you are allowed to reuse a dictionary word.
     ```rust
     --8<-- "26_dp_ii/06_word_break.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "26_dp_ii/06_word_break.go"
+    ```
     
 [💻](https://leetcode.com/problems/word-break/)<br>
 
@@ -171,6 +191,10 @@ Explaination: The substrings after 1 partitioning are "aa" and "abba".
 === "🦀"
     ```rust
     --8<-- "26_dp_ii/07_palindrome_partitioning.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "26_dp_ii/07_palindrome_partitioning.go"
     ```
     
 [💻](https://www.geeksforgeeks.org/problems/palindromic-patitioning4845/1)<br>

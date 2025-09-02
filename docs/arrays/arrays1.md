@@ -13,6 +13,10 @@
     ```rust
     --8<-- "01_arrays/1_set_matrix_zeroes.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "01_arrays/1_set_matrix_zeroes.go"
+    ```
 
 [📘](https://takeuforward.org/data-structure/set-matrix-zero/) [💻](https://leetcode.com/problems/set-matrix-zeroes/)<br>
 
@@ -38,6 +42,10 @@ Given the number of rows n. Print the first n rows of Pascal’s triangle..<br>
     ```rust
     --8<-- "01_arrays/2_pascals_triangle.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "01_arrays/2_pascals_triangle.go"
+    ```
 
 [📘](https://takeuforward.org/data-structure/program-to-generate-pascals-triangle/) [💻](https://leetcode.com/problems/pascals-triangle/)<br>
 
@@ -54,6 +62,10 @@ has the largest sum and returns its sum<br>
     ```rust
     --8<-- "01_arrays/4_kadanes_algorithm.rs"
     ```
+=== "🐍a"
+    ```go
+    --8<-- "01_arrays/4_kadanes_algorithm.go"
+    ```
 [📘](https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/) [💻](https://leetcode.com/problems/maximum-subarray/)
 
 ---
@@ -67,6 +79,10 @@ has the largest sum and returns its sum<br>
 === "🦀"
     ```rust
     --8<-- "01_arrays/5_sort_list_of_zeroes_ones_twos.rs"
+    ```
+=== "🐍a"
+    ```go
+    --8<-- "01_arrays/5_sort_list_of_zeroes_ones_twos.go"
     ```
 [📘](https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/) [💻](https://leetcode.com/problems/sort-colors/)
 
@@ -82,5 +98,9 @@ has the largest sum and returns its sum<br>
 === "🦀"
     ```rust
     --8<-- "01_arrays/6_stock_buy_and_sell.rs"
+    ```
+=== "🐍a"
+    ```go
+    --8<-- "01_arrays/6_stock_buy_and_sell.go"
     ```
 [📘](https://takeuforward.org/data-structure/stock-buy-and-sell/) [💻](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)

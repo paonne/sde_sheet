@@ -17,6 +17,10 @@ Time Complexity -> O(n + logm)
     ```rust
     --8<-- "03_arrays_part3/1_search_in_2d_matrix.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "03_arrays_part3/1_search_in_2d_matrix.go"
+    ```
 [📘](https://takeuforward.org/data-structure/search-in-a-sorted-2d-matrix/)[💻](https://leetcode.com/problems/search-a-2d-matrix/)<br>
 
 ---
@@ -52,6 +56,10 @@ SC - O(1)
     ```rust
     --8<-- "03_arrays_part3/2_pow_x_of_n.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "03_arrays_part3/2_pow_x_of_n.go"
+    ```
 [📘](https://takeuforward.org/data-structure/implement-powxn-x-raised-to-the-power-n/)[💻](https://leetcode.com/problems/powx-n/)<br>
 
 ---
@@ -66,6 +74,10 @@ SC - O(1)
 === "🦀"
     ```rust
     --8<-- "03_arrays_part3/3_majority_element.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "03_arrays_part3/3_majority_element.go"
     ```
 [📘](ttps://takeuforward.org/data-structure/find-the-majority-element-that-occurs-more-than-n-2-times/) [💻](https://leetcode.com/problems/majority-element/)<br>
 
@@ -94,6 +106,10 @@ Space - O(1)
     ```rust
     --8<-- "03_arrays_part3/4_majority_element_2.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "03_arrays_part3/4_majority_element_2.go"
+    ```
 [📘](https://takeuforward.org/data-structure/majority-elementsn-3-times-find-the-elements-that-appears-more-than-n-3-times-in-the-array/) [💻](https://leetcode.com/problems/majority-element-ii/)<br>
 
 ---
@@ -110,6 +126,10 @@ Space - O(1)
 === "🦀"
     ```rust
     --8<-- "03_arrays_part3/5_grid_unique_paths.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "03_arrays_part3/5_grid_unique_paths.go"
     ```
 [📘](https://takeuforward.org/data-structure/grid-unique-paths-count-paths-from-left-top-to-the-right-bottom-of-a-matrix/) [💻](https://leetcode.com/problems/unique-paths/)<br>
 

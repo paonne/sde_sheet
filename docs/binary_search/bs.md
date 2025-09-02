@@ -18,6 +18,10 @@ Explanation For Sample Input 1:
     ```rust
     --8<-- "11_binary_search/01_nth_root.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "11_binary_search/01_nth_root.go"
+    ```
 [📘](https://takeuforward.org/data-structure/nth-root-of-a-number-using-binary-search/) [💻](https://www.naukri.com/code360/problems/1062679?topList=striver-sde-sheet-problems&leftPanelTabValue=PROBLEM)<br>
 
 ---
@@ -50,6 +54,10 @@ Elements which are repeated twice will be at
     ```rust
     --8<-- "11_binary_search/03_single_element_in_sorted_array.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "11_binary_search/03_single_element_in_sorted_array.go"
+    ```
 [📘](https://takeuforward.org/data-structure/search-single-element-in-a-sorted-array/) [💻](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)<br>
 
 ---
@@ -76,6 +84,10 @@ Output: 4
 === "🦀"
     ```rust
     --8<-- "11_binary_search/04_search_in_rotated_sorted_array.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "11_binary_search/04_search_in_rotated_sorted_array.go"
     ```
 [📘](https://takeuforward.org/data-structure/search-element-in-a-rotated-sorted-array/) [💻](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)<br>
 

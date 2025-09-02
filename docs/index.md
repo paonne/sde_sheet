@@ -6,6 +6,7 @@ Welcome to Striver SDE Sheet 🤗.
 🧠 - Algorithm  
 🐍 - Python  
 🦀 - Rust  
+🐋 - Go
 📘 - TUF link  
 💻 - Platform link
 

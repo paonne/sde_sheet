@@ -12,6 +12,10 @@
     ```rust
     --8<-- "04_arrays_part4/1_2sum.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "04_arrays_part4/1_2sum.go"
+    ```
 [📘](https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array/) [💻](https://leetcode.com/problems/two-sum/)<br>
 
 ---
@@ -37,6 +41,10 @@
 === "🦀"
     ```rust
     --8<-- "04_arrays_part4/2_4sum.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "04_arrays_part4/2_4sum.go"
     ```
 
 [📘](https://takeuforward.org/data-structure/4-sum-find-quads-that-add-up-to-a-target-value/) [💻](https://leetcode.com/problems/4sum/)<br>
@@ -64,6 +72,10 @@ O(N) Solution<br>
     ```rust
     --8<-- "04_arrays_part4/3_longest_consecutive_sequence.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "04_arrays_part4/3_longest_consecutive_sequence.go"
+    ```
 [📘](https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array/) [💻](https://leetcode.com/problems/longest-consecutive-sequence/)<br>
 
 ---
@@ -80,6 +92,10 @@ O(N) Solution<br>
 === "🦀"
     ```rust
     --8<-- "04_arrays_part4/4_longest_subarray_with_sum_zero.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "04_arrays_part4/4_longest_subarray_with_sum_zero.go"
     ```
 [📘](https://takeuforward.org/data-structure/length-of-the-longest-subarray-with-zero-sum/)<br>
 
@@ -104,6 +120,10 @@ Coming Soon
 === "🦀"
     ```rust
     --8<-- "04_arrays_part4/6_longest_substring_without_repeating_character.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "04_arrays_part4/6_longest_substring_without_repeating_character.go"
     ```
 [📘](https://takeuforward.org/data-structure/length-of-the-longest-subarray-with-zero-sum/) [💻](https://leetcode.com/problems/longest-substring-without-repeating-characters/)<br>
 

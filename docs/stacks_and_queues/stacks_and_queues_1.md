@@ -25,6 +25,10 @@ hence they are balanced.
     ```rust
     --8<-- "13_stacks_and_queues/balanced_paranthesis.rs"
     ```
+=== "🐋"
+    ```go
+    --8<-- "13_stacks_and_queues/balanced_paranthesis.go"
+    ```
 
 [📘](https://takeuforward.org/data-structure/check-for-balanced-parentheses/) [💻](https://leetcode.com/problems/valid-parentheses/)<br>
 
@@ -59,6 +63,10 @@ Explanation: The next greater element for each value of nums1 is as follows:
 === "🦀"
     ```rust
     --8<-- "13_stacks_and_queues/next_greater_element.rs"
+    ```
+=== "🐋"
+    ```go
+    --8<-- "13_stacks_and_queues/next_greater_element.go"
     ```
 
 [📘](https://takeuforward.org/data-structure/next-greater-element-using-stack/) [💻](https://leetcode.com/problems/next-greater-element-i/)<br>
