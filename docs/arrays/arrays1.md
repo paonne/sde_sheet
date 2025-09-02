@@ -62,7 +62,7 @@ has the largest sum and returns its sum<br>
     ```rust
     --8<-- "01_arrays/4_kadanes_algorithm.rs"
     ```
-=== "🐍a"
+=== "🐋"
     ```go
     --8<-- "01_arrays/4_kadanes_algorithm.go"
     ```
@@ -80,7 +80,7 @@ has the largest sum and returns its sum<br>
     ```rust
     --8<-- "01_arrays/5_sort_list_of_zeroes_ones_twos.rs"
     ```
-=== "🐍a"
+=== "🐋"
     ```go
     --8<-- "01_arrays/5_sort_list_of_zeroes_ones_twos.go"
     ```
@@ -99,7 +99,7 @@ has the largest sum and returns its sum<br>
     ```rust
     --8<-- "01_arrays/6_stock_buy_and_sell.rs"
     ```
-=== "🐍a"
+=== "🐋"
     ```go
     --8<-- "01_arrays/6_stock_buy_and_sell.go"
     ```
