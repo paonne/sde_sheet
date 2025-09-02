@@ -38,9 +38,9 @@ extra:
   - icon: fontawesome/brands/linkedin
     link: https://www.linkedin.com/in/pavanuppari/
   - icon: fontawesome/brands/github
-    link: https://github.com/pavan-uppari
-repo_name: pavan-uppari/sde_sheet
-repo_url: https://github.com/pavan-uppari/sde_sheet
+    link: https://github.com/paonne
+repo_name: paonne/sde_sheet
+repo_url: https://github.com/paonne/sde_sheet
 markdown_extensions:
   - markdown_include.include
   - pymdownx.snippets
