@@ -12,9 +12,9 @@ Output: 1 2 4 5<br>
     ```py
     --8<-- "08_greedy/01_nmeetings_in_one_room.py"
     ```
-=== "🐍"
-    ```py
-    --8<-- "08_greedy/01_nmeetings_in_one_room.py"
+=== "🐋"
+    ```go
+    --8<-- "08_greedy/01_nmeetings_in_one_room.go"
     ```
 
 [📘](https://takeuforward.org/data-structure/n-meetings-in-one-room/) [💻](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)<br>
