@@ -1,1 +1,1 @@
-env
+zip -r venv.zip venv
